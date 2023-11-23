@@ -36,6 +36,19 @@ INSERT INTO customer (first_name, last_name, contact, country) VALUES ('charuka'
 
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Kasun', 'Sampath', '077-1234567', 'Sri Lanka');
 
+INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Pathum', 'Nuwan', '076-1234567', 'Sri Lanka');
+INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Ruwan', 'Chamara', '077-2345678', 'Sri Lanka');
+INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Mohomad', 'Riswan', '075-1234567', 'Pakistan');
+INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Virat', 'Kohli', '077-5454545', 'India');
+INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Tamin', 'Iqbal', '074-1234567', 'Bangladesh');
+INSERT INTO customer (first_name, last_name, contact, country) VALUES ('nimal', 'Sampath', '077-3456789', 'Sri Lanka');
+INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Tom', 'Curren', '078-1234567', 'Englend');
+INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Sam', 'tommy', '077-1234567', 'Englend');
+INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Glene', 'Maxwell', '071-1234567', 'Australia');
+INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Kane', 'Willions', '074-3334567', 'New Zeland');
+
+
+
 
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Mahinda', 'Rajapaksha', '076-1256488', 'USA');
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('John', 'Cena', '099-1684239', 'Canada');
@@ -97,3 +110,4 @@ INSERT INTO customer (first_name, last_name, contact, country) VALUES
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Supun', 'Lakmal', '079-1234567', 'Sri Lanka');
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Kasun', 'Kalhara', '055-1234567', 'Sri Lanka');
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Udayanga', 'Waranakulasooriya', '066-1234567', 'Sri Lanka');
+
