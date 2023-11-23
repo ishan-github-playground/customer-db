@@ -6,6 +6,29 @@ CREATE TABLE IF NOT EXISTS customer(
     country VARCHAR(50) NOT NULL
 );
 
+INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Gihan', 'Lakindu', '070-1234567', 'Sri Lanka');
+
+INSERT INTO customer (first_name, last_name, contact, country) VALUES ('John', 'Keels', '954-1234567', 'USA');
+
+INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Gautham', 'Gambhir', '911-1234567', 'India');
+
+INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Mark', 'War', '930-1234567', 'Australia');
+
+INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Ross', 'Taylor', '977-1234567', 'New Zealand');
+
+INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Mark', 'Boucher', '065-1234567', 'South Africa');
+
+INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Anil', 'Kumble', '955-1234567', 'India');
+
+INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Rahul', 'Dravid', '955-1234567', 'India');
+
+INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Richy', 'Ponting', '944-1234567', 'Australia');
+
+INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Makaya', 'Ntini', '920-1234567', 'South Africa');
+
+INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Brian', 'Lara', '865-1234567', 'West Indies');
+
+INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Jacob', 'Mustafa', '920-1234567', 'Dubai');
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Scarlett', 'Jenkins', '057-1234567', 'Sri Lanka');
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Elijah', 'Patel', '087-1222567', 'India');
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Isabella', 'Nguyen', '023-1234567', 'USA');
