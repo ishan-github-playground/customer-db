@@ -40,3 +40,4 @@ INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Kasun', 
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Nuwan', 'Ramindu', '078-1234567', 'Sri Lanka');
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Supun', 'Lakmal', '079-1234567', 'Sri Lanka');
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Kasun', 'Kalhara', '055-1234567', 'Sri Lanka');
+INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Udayanga', 'Waranakulasooriya', '066-1234567', 'Sri Lanka');
